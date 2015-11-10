@@ -6,6 +6,7 @@ public class Teste {
 		System.out.println("testando1");
 		System.out.println("Agora é minha vez");
 		System.out.println("naosei");
+		System.out.println("segunda");
 		
 
 	}
